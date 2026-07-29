@@ -200,6 +200,6 @@ images/admin-dashboard.png
 
 ## Author
 
-**Satya Prakash Nandy**
+**Sanket panda**
 
 UI/UX Design Project created using Figma.
