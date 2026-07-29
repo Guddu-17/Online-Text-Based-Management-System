@@ -1,150 +1,205 @@
-# Online-Text-Based-Management-System
+# Online Text-Based Management System (OTBMS)
 
-OVERVIEW:-
+## Overview
 
-The Online Text-Based Management System (OTBMS) is a modern Learning Management System (LMS) UI/UX design created in Figma. It provides an intuitive interface for students and administrators to manage online learning activities efficiently.
-Features
-Student Dashboard
-Administration Dashboard
-Course Management
-Chapter Management
-User Management
-Reports & Analytics
-Platform Settings
-Authentication
-Notification Settings
-Email Templates
-Security Settings
-Responsive and user-friendly interface
+The **Online Text-Based Management System (OTBMS)** is a modern Learning Management System (LMS) UI/UX design created in Figma. It provides an intuitive interface for students and administrators to efficiently manage online learning activities.
 
-DESIGN SYSTEM:-
+---
 
-Typography
-Font Family: Inter
-Headings: 24–32 px
-Subheadings: 18–20 px
-Body Text: 14–16 px
-Buttons: 14 px Medium
-Grid System
-12-column layout
-24 px margins
-16 px spacing between components
-16 px card border radius
-Color Palette
-Color
-Hex Code
-Usage
-Primary Blue
-#2563EB
-Buttons, active items
-Light Blue
-#DBEAFE
-Highlights
-White
-#FFFFFF
-Cards & background
-Light Gray
-#F8FAFC
-Page background
-Border Gray
-#E5E7EB
-Borders
-Dark Gray
-#374151
-Text
-Green
-#22C55E
-Success
-Red
-#EF4444
-Delete/Error
-Orange
-#F59E0B
-Warning
+## Features
 
-DESIGN DECISION:-
- 
-Why this layout?
+### Student Features
+- Student Dashboard
+- Authentication
+- Notifications
 
-"A dashboard-based layout provides quick access to important features and keeps navigation simple for both students and administrators."
+### Administrator Features
+- Administration Dashboard
+- User Management
+- Platform Settings
+- Notification Settings
+- Email Templates
+- Security Settings
 
-Why these colors?
+### Learning Management
+- Course Management
+- Chapter Management
 
-"Blue represents trust, professionalism, and technology. Neutral gray and white backgrounds improve readability and reduce visual clutter."
+### Reporting
+- Reports & Analytics
 
-Why these icons?
+### User Experience
+- Responsive and user-friendly interface
 
-"Simple outlined icons improve usability, make navigation easier, and help users quickly identify features."
+---
 
-Why sidebar?
+## Design System
 
-"The left sidebar allows users to switch between modules quickly while keeping the main content area clean and organized."
+### Typography
 
-COMPONENTS:-
+| Element | Specification |
+|----------|--------------|
+| Font Family | Inter |
+| Headings | 24–32 px |
+| Subheadings | 18–20 px |
+| Body Text | 14–16 px |
+| Buttons | 14 px Medium |
 
-The design includes reusable Figma components such as:
-Buttons
-Input Fields
-Search Bars
-Cards
-Tables
-Toggle Switches
-Navigation Sidebar
-Top Header
-Dropdown Menus
-Status Badges
-Progress Bars
-Charts
-Notification Cards
-Modal Dialogs
+### Grid System
 
-CHALLENGES:-
+- 12-column layout
+- 24 px page margins
+- 16 px spacing between components
+- 16 px card border radius
 
-During the design process, I faced several challenges:
-Creating a consistent design system.
-Maintaining proper spacing and alignment.
-Designing responsive layouts for multiple screens.
-Organizing reusable components.
-Ensuring consistency across all dashboard pages.
+### Color Palette
 
-LEARNINGS:-
+| Color | Hex Code | Usage |
+|---------|----------|---------|
+| Primary Blue | `#2563EB` | Buttons, active items |
+| Light Blue | `#DBEAFE` | Highlights |
+| White | `#FFFFFF` | Cards & backgrounds |
+| Light Gray | `#F8FAFC` | Page background |
+| Border Gray | `#E5E7EB` | Borders |
+| Dark Gray | `#374151` | Text |
+| Green | `#22C55E` | Success states |
+| Red | `#EF4444` | Error/Delete actions |
+| Orange | `#F59E0B` | Warnings |
 
-This project helped me improve my understanding of:
-User Experience (UX) principles
-User Interface (UI) design
-Dashboard design patterns
-Design systems
-Component-based design
-Auto Layout
-Prototyping
-Consistency in design
+---
 
-FIGMA SKILLS DEMONSTRATION:-
+## Design Decisions
 
-Wireframing
-High-fidelity UI Design
-Auto Layout
-Components & Variants
-Design System Creation
-Prototyping
-Interactive Components
-Grid & Layout Management
-Typography
-Color System
-Icon Integration
-Constraints & Resizing
-Responsive Design
-Asset Organization
+### Dashboard-Based Layout
 
-TOOLS USED:-
- 
-Figma
-Material Symbols Icons
-Google Fonts (Inter)
-📷 Project Preview
-Add screenshots of:
-Student Dashboard
-Administration Dashboard
-Course Management
-Reports & Analytics
-Platform Settings
+A dashboard-centric design provides quick access to key functionalities while keeping navigation simple and intuitive for both students and administrators.
+
+### Color Selection
+
+Blue was chosen to represent trust, professionalism, and technology. Neutral gray and white backgrounds improve readability and reduce visual clutter.
+
+### Icon Usage
+
+Simple outlined icons enhance usability, improve navigation, and help users quickly identify features.
+
+### Sidebar Navigation
+
+The left sidebar enables quick module switching while maintaining a clean and organized main content area.
+
+---
+
+## Components
+
+The design includes the following reusable Figma components:
+
+### Navigation
+- Navigation Sidebar
+- Top Header
+- Dropdown Menus
+
+### Forms
+- Buttons
+- Input Fields
+- Search Bars
+- Toggle Switches
+
+### Data Display
+- Cards
+- Tables
+- Charts
+- Progress Bars
+- Status Badges
+
+### Feedback Components
+- Notification Cards
+- Modal Dialogs
+
+---
+
+## Challenges
+
+During the design process, several challenges were encountered:
+
+- Creating a consistent design system
+- Maintaining proper spacing and alignment
+- Designing responsive layouts for multiple screen sizes
+- Organizing reusable components
+- Ensuring consistency across all dashboard screens
+
+---
+
+## Key Learnings
+
+This project strengthened my understanding of:
+
+- User Experience (UX) Principles
+- User Interface (UI) Design
+- Dashboard Design Patterns
+- Design Systems
+- Component-Based Design
+- Auto Layout
+- Interactive Prototyping
+- Design Consistency
+
+---
+
+## Figma Skills Demonstrated
+
+### Design Fundamentals
+- Wireframing
+- High-Fidelity UI Design
+- Typography
+- Color Systems
+
+### Advanced Figma Features
+- Auto Layout
+- Components & Variants
+- Interactive Components
+- Constraints & Resizing
+
+### Design System Management
+- Design System Creation
+- Asset Organization
+- Grid & Layout Management
+
+### User Experience
+- Responsive Design
+- Prototyping
+
+---
+
+## Tools Used
+
+- Figma
+- Material Symbols Icons
+- Google Fonts (Inter)
+
+---
+
+## Project Preview
+
+### Screenshots
+
+Add screenshots for:
+
+1. Student Dashboard
+2. Administration Dashboard
+3. Course Management
+4. Reports & Analytics
+5. Platform Settings
+
+### Example
+
+```md
+images/student-dashboard.png
+
+images/admin-dashboard.png
+```
+
+---
+
+## Author
+
+**Satya Prakash Nandy**
+
+UI/UX Design Project created using Figma.
